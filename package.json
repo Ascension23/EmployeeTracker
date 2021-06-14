@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "An application to view and manage departments, roles and employees in a company.",
+  "main": "app.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ascension23/EmployeeTracker.git"
+  },
+  "author": "Adrian Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ascension23/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/Ascension23/EmployeeTracker#readme"
+}
