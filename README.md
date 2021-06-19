@@ -9,3 +9,4 @@ Make sure to npm install.
 Fill in the database info under the connection info in app.js for use with your database.
 
 ## Screenshot
+![Screenshot (19)](https://user-images.githubusercontent.com/77472152/122656474-c41ece80-d10f-11eb-8d83-20fb28d84234.png)
